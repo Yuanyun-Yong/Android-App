@@ -13,4 +13,12 @@ Note that the app:
 - Allows easy addition of events
 - Has an intuitive interface
 - Allows users to import whole schedules
+
+Plan:
+1. Create a wireframe and storyboard
+  - Test the look and feel of the app
+2. Develop the backend aspect of the app
+  - i.e. Set up servers, databases, APIs, storage solutions etc.  
+3. Refine UI
+  - Test the flow of the app
 */
