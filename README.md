@@ -21,4 +21,6 @@ Plan:
   - i.e. Set up servers, databases, APIs, storage solutions etc.  
 3. Refine UI
   - Test the flow of the app
+
+Possible expansion (after the initial app has been built) would be to have the same app, but on a different platform/operating system (i.e. iOS)
 */
