@@ -24,3 +24,10 @@ Plan:
 
 Possible expansion (after the initial app has been built) would be to have the same app, but on a different platform/operating system (i.e. iOS)
 */
+
+/*
+Step 1:
+Wireframe:
+- Using Justinmind to design a basic wireframe and hierarchy of information (i.e. which button leads to what screen)
+
+*/
