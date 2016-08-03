@@ -30,6 +30,7 @@ Step 1:
 Wireframe:
 - Using Justinmind to design a basic wireframe and hierarchy of information (i.e. which button leads to what screen)
 Basic layout of wireframe:
+
 Home screen 
 - Shows events in the day
 - Allows you to create a new event
@@ -40,8 +41,11 @@ Create an event screen
 - Allows you to put in date, time (i.e. start and end) and location of event
 - Has 2 buttons:
   - Add the event
-    - Clicking on this will lead to another screen (The day of the event)  
-  - Cancel
+    - Clicking on this will lead to the "Calendar" screen (The day of the event)  
+  - Cancel/ Delete
     - Clicking on this will lead back to the "Home" screen
+
+Calendar screen
+- Shows the whole day (Times will be evenly spaced out)
 
 */
