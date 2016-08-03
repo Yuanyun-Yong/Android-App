@@ -29,5 +29,10 @@ Possible expansion (after the initial app has been built) would be to have the s
 Step 1:
 Wireframe:
 - Using Justinmind to design a basic wireframe and hierarchy of information (i.e. which button leads to what screen)
+Basic layout of wireframe:
+Home screen 
+- Shows events in the day
+- Allows you to create a new event
+  - New event leads to a new page -- "Create an event" screen
 
 */
