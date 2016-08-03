@@ -34,5 +34,14 @@ Home screen
 - Shows events in the day
 - Allows you to create a new event
   - New event leads to a new page -- "Create an event" screen
+- Import a schedule (using various methods: Linking to Google, URL etc.) 
+  
+Create an event screen
+- Allows you to put in date, time (i.e. start and end) and location of event
+- Has 2 buttons:
+  - Add the event
+    - Clicking on this will lead to another screen (The day of the event)  
+  - Cancel
+    - Clicking on this will lead back to the "Home" screen
 
 */
