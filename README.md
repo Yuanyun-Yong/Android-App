@@ -65,5 +65,9 @@ Calendar screen
     - "Create an event" button on the page
   - Create an event page: 
     - Inputs for details about the event
-    - "Create" (leads to the day the event id on) and "Delete" (leads to the Home page) buttons
+      - Date
+      - Time (Duration)
+      - Location
+      - Recurring?
+    - "Create" (leads to the day the event is on) and "Delete" (leads to the Home page) buttons
 */
