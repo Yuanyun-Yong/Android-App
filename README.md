@@ -52,5 +52,8 @@ Calendar screen
   - Simplistic
   - Specific colours for each action:
     - Red for "action"
+      - Actions include: creating an event
     - Grey for "delete"
+    - Blue for Home page
+    - 
 */
