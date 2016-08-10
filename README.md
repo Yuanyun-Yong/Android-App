@@ -56,4 +56,7 @@ Calendar screen
     - Grey for "delete"
     - Blue for Home page
     - 
+  - Specific colours for each event
+    - Allows the user to set their own colour if they want
+    - Default colouring otherwise
 */
