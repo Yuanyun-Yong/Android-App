@@ -59,4 +59,8 @@ Calendar screen
   - Specific colours for each event
     - Allows the user to set their own colour if they want
     - Default colouring otherwise
+
+- Considering functionality of app:
+  - Home page: Today + events today
+    - Create an event button on the page
 */
