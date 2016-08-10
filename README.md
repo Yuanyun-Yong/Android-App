@@ -48,4 +48,7 @@ Create an event screen
 Calendar screen
 - Shows the whole day (Times will be evenly spaced out)
 
+- Considering design of the app:
+  - Simplistic
+  - 
 */
