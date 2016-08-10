@@ -50,5 +50,7 @@ Calendar screen
 
 - Considering design of the app:
   - Simplistic
-  - 
+  - Specific colours for each action:
+    - Red for "action"
+    - Grey for "delete"
 */
