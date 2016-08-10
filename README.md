@@ -69,5 +69,8 @@ Calendar screen
       - Time (Duration)
       - Location
       - Recurring?
+      - Maybe can include what's happening on the day in relation to the event being created:
+        - How long it takes to go from the previous event to the next (i.e. the one being created now)
+        - How long it takes to go from the current event (created now) to the next
     - "Create" (leads to the day the event is on) and "Delete" (leads to the Home page) buttons
 */
