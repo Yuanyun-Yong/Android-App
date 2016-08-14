@@ -78,4 +78,5 @@ Calendar screen
     - "Create" (leads to the day the event is on) and "Delete" (leads to the Home page) buttons
   - View Calendar page:
     - Overview of the months in the year
+    - Months that have passed are "greyed out"
 */
