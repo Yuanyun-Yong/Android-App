@@ -59,6 +59,9 @@ Calendar screen
   - Specific colours for each event
     - Allows the user to set their own colour if they want
     - Default colouring otherwise
+      - Blue relating to work/school
+      - Red relating to recreational (Maybe?)
+      - etc.
 
 - Considering functionality of app:
   - Home page: Today + events today
