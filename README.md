@@ -79,4 +79,6 @@ Calendar screen
   - View Calendar page:
     - Overview of the months in the year
     - Months that have passed are "greyed out"
+    - Months that have not yet passed are red
+    - Month that we are currently in is blue
 */
