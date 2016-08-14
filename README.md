@@ -76,4 +76,6 @@ Calendar screen
         - How long it takes to go from the previous event to the next (i.e. the one being created now)
         - How long it takes to go from the current event (created now) to the next
     - "Create" (leads to the day the event is on) and "Delete" (leads to the Home page) buttons
+  - View Calendar page:
+    - Overview of the months in the year
 */
