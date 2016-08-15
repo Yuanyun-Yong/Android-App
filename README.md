@@ -83,4 +83,5 @@ Calendar screen
     - Month that we are currently in is blue
       - Same for the days (when we "zoom in") -- Days that have passed in the month are greyed out and days that aren't are red. Today will be blue
     - Perhaps allow user to select a day and create an event on that day? (Rather than just the option of putting a date for create an event)
+      - In the create an event page, the date will automatically be filled out to the day they were on (which led to the create an event page)
 */
